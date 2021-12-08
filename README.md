@@ -6,6 +6,12 @@ react-todo-app:
 
 /////////////////////////
 
+react-color-app
+
+![color-app](https://user-images.githubusercontent.com/76655890/145259018-a549d633-dc94-4c72-9b14-e42f33b84ace.png)
+
+////////////////////////
+
 react accordion:
 
 ![accordion](https://user-images.githubusercontent.com/76655890/144741836-2594644e-93a2-4f49-a7de-f6c54c6ac5e1.png)
