@@ -19,6 +19,9 @@
 
 ![accordion](https://user-images.githubusercontent.com/76655890/144741836-2594644e-93a2-4f49-a7de-f6c54c6ac5e1.png)
 
+# react-tabs:
+
+![tabs](https://user-images.githubusercontent.com/76655890/145542809-136194ef-4743-4ec7-af1e-94298131f132.png)
 
 # react-navbar:
 
